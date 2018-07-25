@@ -6,3 +6,4 @@ git is free sofrware distributed under the GPI
 git has a mutable index called stage.
 Git tracks changes
 creating a new branch is quick.
+creating a new branch is quick & simple.
