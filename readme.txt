@@ -10,3 +10,4 @@ creating a new branch is quick and simple.
 add merge
 add merge with fast forward
 fast mode
+i have changed my work but i do not save it. now i have to fix a bug.how to do?
